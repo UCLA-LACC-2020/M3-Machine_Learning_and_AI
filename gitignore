@@ -1,0 +1,13 @@
+*.out
+.logger
+.data
+.scripts
+.summaries
+*.pyc
+.log
+.__pycache__
+.vscode
+.DS_Store
+.gitgnore
+*.index
+*.meta
